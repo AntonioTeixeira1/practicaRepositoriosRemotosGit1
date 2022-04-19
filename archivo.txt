@@ -1,0 +1,36 @@
+3D Objects/
+AppData/
+Configuración local@
+Contacts/
+Cookies@
+Datos de programa@
+Desktop/
+Documents/
+Downloads/
+Entorno de red@
+Favorites/
+Impresoras@
+IntelGraphicsProfiles/
+Links/
+Menú Inicio@
+MicrosoftEdgeBackups/
+Mis documentos@
+Music/
+NTUSER.DAT
+NTUSER.DAT{98e8b6cc-ae9a-11ec-98ca-bb254da37f7f}.TM.blf
+NTUSER.DAT{98e8b6cc-ae9a-11ec-98ca-bb254da37f7f}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{98e8b6cc-ae9a-11ec-98ca-bb254da37f7f}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Plantillas@
+Reciente@
+Saved Games/
+Searches/
+SendTo@
+Sincronización de IBM Connections/
+Videos/
+eclipse/
+eclipse-workspace/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
